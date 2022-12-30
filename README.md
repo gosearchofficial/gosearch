@@ -1,2 +1,2 @@
 # gosearch
-<h1>a little search engine i made </h1>
+<p>a little search engine i made <p>
